@@ -1110,7 +1110,7 @@ def application_footer
     H.footer {
         links = [
             ["about", "/about"],
-            ["source code", "http://github.com/antirez/lamernews"],
+            ["source code", "http://github.com/Stackato-Apps/lamernews"],
             ["rss feed", "/rss"],
             ["twitter", FooterTwitterLink],
             ["google group", FooterGoogleGroupLink]

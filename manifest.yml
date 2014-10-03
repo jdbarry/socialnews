@@ -1,0 +1,5 @@
+applications:
+- name: lamernews
+  services:
+    ${name}-redis:
+      type: redis
