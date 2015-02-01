@@ -1,7 +1,7 @@
 # General
-SiteName = "Lamer News"
-SiteUrl = "http://lamernews.com"
-SiteDescription = "Programming News"
+SiteName = "Leadership Summit Atlanta 2015"
+SiteUrl = "http://hp.com"
+SiteDescription = "Cloudy News for HP Enterprise Employees"
 
 # Redis config
 RedisURL = ENV["REDIS_URL"]

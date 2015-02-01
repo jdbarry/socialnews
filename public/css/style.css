@@ -21,22 +21,25 @@ li {
 }
 
 header {
-    display:block;
-    position:relative;
-    padding: 15px 0px 0px 15px;
-    background-color:#eee;
-    border-bottom: 1px #ccc solid;
+    background-image: url(/images/logo.png);
+    border-bottom: 3px solid #ccc;
+    display: block;
+    padding: 22px 0 10px 100px;
+    position: relative;
+    background-repeat: no-repeat;
+    border: 10px solid #0096d6;
+    background-color: #0096d6;
 }
 
 header h1 {
     display: inline;
     font-size:1.3em;
     font-weight:bold;
-    color:#333;
+    color:#fff;
 }
 
 header h1 a {
-    color:#333;
+    color:#fff;
 }
 
 header h1 small {

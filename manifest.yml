@@ -1,5 +1,9 @@
 applications:
-- name: lamernews
+- name: socialnews
   services:
     ${name}-redis:
       type: redis
+    ${name}-db:
+      type: mysql
+    news-mq:
+      type: rabbitmq3   
