@@ -1,5 +1,5 @@
 # General
-SiteName = "Social Compete News"
+SiteName = "Leadership Summit Atlanta 2015"
 SiteUrl = "http://hp.com"
 SiteDescription = "Cloudy News"
 
